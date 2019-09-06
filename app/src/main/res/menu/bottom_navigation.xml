@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_artikel"
+        android:icon="@drawable/ic_description_black_24dp"
+        android:title="Artikel"/>
+
+    <item
+        android:id="@+id/navigation_dietdiary"
+        android:icon="@drawable/ic_book_black_24dp"
+        android:title="Jurnal"
+        android:titleCondensed="Jurnal"/>
+
+    <item
+        android:id="@+id/navigation_latihan"
+        android:icon="@drawable/barbel"
+        android:title="Latihan"/>
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Profil"/>
+
+</menu>
