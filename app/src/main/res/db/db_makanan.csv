@@ -1,0 +1,599 @@
+jenis makanan,kuantitas,jenis kuantitas,kalori,karbohidrat,gula,serat,protein,lemak
+Beras,100,0,365,79.95,0.12,1.3,7.13,0.66
+Nasi putih matang,100,0,130,28.17,0.05,0.4,2.69,0.28
+Nasi cokelat matang,100,0,123,25.58,0.24,1.6,2.74,0.97
+Nasi merah matang,100,0,119,25.3,1.58,2.4,3.16,0.79
+Kentang mentah,100,0,77,17.49,0.82,2.1,2.05,0.09
+Ubi mentah,100,0,86,20.12,4.18,3,1.57,0.05
+Bakmi rebus,100,0,138,25.16,0.4,1.2,4.54,2.07
+Bihun rebus,100,0,108,24.01,0.03,1,1.79,0.2
+Dada ayam (tanpa kulit) mentah,100,0,120,0,0,0,22.5,2.62
+Dada ayam (tanpa kulit) panggang,100,0,165,0,0,0,31.02,3.57
+Dada ayam mentah,100,0,172,0,0,0,20.85,9.25
+Paha bawah mentah,100,0,214,0.17,0,0,16.37,15.95
+Paha atas mentah,100,0,221,0.25,0,0,16.52,16.61
+Sayap ayam mentah,100,0,191,0,0,0,17.52,12.85
+Ceker ayam mentah,100,0,215,0.2,0,0,19.4,14.6
+Apel,100,0,52,13.81,10.39,2.4,0.26,0.17
+Pir,100,0,57,15.23,9.75,3.1,0.36,0.14
+Pisang,100,0,89,22.84,12.23,2.6,1.09,0.33
+Mangga,100,0,60,14.98,13.66,1.6,0.82,0.38
+Jeruk,100,0,46,11.54,9.14,2.4,0.7,0.21
+Semangka,100,0,30,7.55,6.2,0.4,0.61,0.15
+Strawberry,100,0,32,7.68,4.89,2,0.67,0.3
+Anggur,100,0,67,17.15,16.25,0.9,0.63,0.35
+Buah naga,100,0,49,10.6,6.6,2.7,1.3,0.1
+Nanas,100,0,50,13.12,9.85,1.4,0.54,0.12
+Pepaya,100,0,43,10.82,7.82,1.7,0.47,0.26
+Durian,100,0,147,27.09,21.1,3.8,1.47,5.33
+Blueberry,100,0,57,14.49,9.96,2.4,0.74,0.33
+Rambutan,100,0,82,20.87,13.9,0.9,0.65,0.21
+Nangka,100,0,95,23.25,19.8,1.5,1.72,0.64
+Kiwi,100,0,51,14.66,8.99,3,1.14,0.52
+Lengkeng,100,0,60,15.14,10.66,1.1,1.31,0.1
+Alpukat,100,0,160,8.53,0.66,6.7,2,14.66
+Belimbing,100,0,31,6.73,3.98,2.8,1.04,0.33
+Leci,100,0,66,16.53,15.23,1.3,0..83,0.44
+Markisa,100,0,97,23.38,11.2,10.4,2.2,0.7
+Sirsak,100,0,66,16.84,13.54,3.3,1,0.3
+Manggis,100,0,73,17.91,1.8,0,0.41,0.58
+Sukun,100,0,103,27.12,11,4.9,1.07,0.25
+Kale mentah,100,0,35,4.42,0.99,4.1,2.92,1.49
+Bayam mentah,100,0,23,3.63,0.42,2.2,2.86,0.39
+Kol mentah,100,0,25,5.8,3.2,2.5,1.28,0.1
+Brokoli mentah,100,0,34,6.64,1.7,2.6,2.82,0.37
+Brokoli rebus,100,0,35,7.18,1.39,3.3,2.38,0.41
+Wortel mentah,100,0,41,9.58,4.74,2.8,0.93,0.24
+Timun,100,0,15,3.63,1.67,0.5,0.65,0.11
+Kangkung mentah,100,0,19,3.13,0.34,2.1,2.6,0.2
+Kembang kol mentah,100,0,25,4.97,1.91,2,1.92,0.28
+Tomat mentah,100,0,18,4.01,2.49,0.7,0.95,0.11
+Selada mentah,100,0,15,2.87,0.78,1.3,1.36,0.15
+Paprika mentah,100,0,20,4.64,2.4,1.7,0.86,0.17
+Sawi mentah,100,0,13,2.18,1.18,1,1.5,0.2
+Kacang panjang,100,0,47,8.35,0,2.7,2.8,0.4
+Buncis mentah,100,0,31,7.13,3.27,3.4,1.82,0.12
+Terong mentah,100,0,25,5.88,3.53,3,0.98,0.18
+Kacang polong mentah,100,0,81,14.45,5.67,5.7,5.42,0.4
+Asparagus mentah,100,0,20,3.88,1.88,2.1,2.2,0.12
+Tauge mentah,100,0,30,5.94,4.13,1.8,3.04,0.18
+Lobak mentah,100,0,16,3.4,1.86,1.6,0.68,0.1
+Jamur mentah,100,0,22,3.26,1.98,1,3.09,0.34
+Daun singkong mentah,100,0,38,7.25,0.06,1.9,3.66,0.29
+Zucchini mentah,100,0,17,3.11,2.5,1,1.21,0.32
+Labu mentah,100,0,26,6.5,2.76,0.5,1,0.1
+Jagung mentah,100,0,86,18.7,6.26,2,3.27,1.35
+Telur mentah,50,0,72,0.36,0.18,0,6.28,4.75
+Susu murni,100,1,61,4.46,4.46,0,3.1,3.46
+Keju cheddar,100,0,410,21.3,0.27,0,24.25,33.82
+Keju parmesan,100,0,451,3.7,0.85,0,41.6,29.99
+Keju mozzarekka,100,0,280,3.1,1.23,0,27.5,17.1
+Mentega,100,0,717,0.06,0.06,0,0.85,81.11
+Air putih,240,1,0,0,0,0,0,0
+Es teh tawar,240,1,0,0,0,0,0,0
+Es teh manis,240,1,73,16.74,14.36,0,0,0.59
+Kopi hitam tanpa gula,240,1,5,0.42,0,0,0.74,0
+Minuman soda,240,1,103,25.44,24.41,0,0,0.61
+Bir,240,1,102,8.43,0,0,1.09,0
+Vodka,100,0,231,0,0,0,0,0
+Soju,100,0,143,4.55,0,0,0.45,0
+Wine,100,0,83,2.72,0.79,0,0.07,0
+Whiskey,100,0,250,0.1,0.1,0,0,0
+Sake,100,0,134,5,0,0,0.5,0
+Tenderloin mentah,100,0,151,0.01,0,0,20.53,7.63
+Ribeye mentah,100,0,217,0.11,0,0,19.80,15.21
+Top sirloin mentah,100,0,127,0.01,0,0,21.77,4.45
+Pork loin mentah,100,0,198,0,0,0,19.74,12.58
+Pork rib mentah,100,0,211,0,0,0,19.90,14.01
+Pork belly mentah,100,0,518,0,0,0,9.34,53.01
+Roti tawar,30,0,87,16.35,1.86,0.9,2.7,1.2
+Roti gandum,30,0,92,15.35,1.73,2.2,4.88,1.22
+Nutella,37,0,200,23,21,1,2,12
+Nestle corn flake,30,0,110,24,3,1,2,0.5
+Skippy chunky,32,0,210,7,3,2,7,17
+Quaker instant oatmeal,35,0,140,24,0,3,4,2.5
+Almond,100,0,579,21.55,4.35,12.5,21.15,49.93
+Walnut,100,0,654,13.71,2.61,6.7,15.23,65.21
+Hazelnut,100,0,628,16.7,4.34,9.7,14.95,60.75
+Peanut,100,0,567,16.13,4.72,8.5,25.8,49.24
+Cashew,100,0,553,30.19,5.91,3.30,18.22,43.85
+Pistachio,100,0,560,27.17,7.66,10.6,20.16,45.32
+Saus sambal,15,0,27,6.7,6.5,0,0,0
+Saus tomat,17,0,17,4.66,3.62,0.1,0.18,0.02
+Kecap manis,22,0,45,11,10,0.1,1,0.1
+Kecap asin,16,0,8,0.79,0.06,0.1,1.3,0.09
+Mayonaise,15,0,103,0.04,0.04,0,0,11.67
+Mustard,15,0,9,0.87,0.14,0.6,0.56,0.5
+Cafee Americano Starbucks,473.176,1,15,3,0,0,1,0
+Hot cafee latte with whole milk Starbucks,473.176,1,230,19,0,0,12,12
+Hot cafee latte with nonfat milk Starbucks,473.176,1,130,20,0,0,13,0
+Iced caffe latte with whole milk Starbucks,473.176,1,150,13,0,0,8,7
+Iced caffe latte with nonfat milkStarbucks,473.176,1,90,13,0,0,8,0
+Cappucino with whole milk Starbucks,473.176,1,140,12,0,0,7,7
+Cappucino with nonfat milk Starbucks,473.176,1,80,12,0,0,8,0
+Hot caramel macchiato with whole milk Starbucks,473.176,1,280,35,0,0,10,11
+Hot caramel macchiato with nonfat milk Starbucks,473.176,1,200,36,0,0,11,15
+Hot cafee mocha with whole milk Starbucks,473.176,1,320,42,0,0,13,12
+Hot cafee mocha with whole milk and whipcream Starbucks,473.176,1,400,44,0,0,13,19
+Hot cafee mocha with nonfat milk Starbucks,473.176,1,250,42,0,0,13,2.5
+Hot cafee mocha with nonfat milk and whipcream Starbucks,473.176,1,320,44,0,0,14,10
+Iced cafee mocha with whole milk Starbucks,473.176,1,250,36,0,0,9,8
+Iced cafee mocha with whole milk and whipcream Starbucks,473.176,1,360,39,0,0,9,19
+Iced cafee mocha with nonfat milk Starbucks,473.176,1,200,36,0,0,9,2.5
+Iced cafee mocha with nonfat milk and whipcream Starbucks,473.176,1,320,40,0,0,10,14
+Green tea frappuccino with whole milk Starbucks,473.176,1,320,64,0,0,5,4.5
+Green tea frappuccino with whole milk and whipcream Starbucks,473.176,1,430,68,0,0,6,16
+Java chip frapuccino with whole milk Starbucks,473.176,1,350,68,0,0,5,7
+Green tea frappuccino with whole and whipcream milk Starbucks,473.176,1,470,72,0,0,6,18
+Kacang kedelai rebus,100,0,172,8.36,3,6,18.21,8.97
+Kacang hitam rebus,100,0,132,23.71,0.32,8.70,8.86,0.54
+Kacang hijau rebus,100,0,105,19.15,2,7.6,7.02,0.38
+Kacang merah rebus,100,0,127,22.8,0.32,7.4,8.67,0.5
+Tempe mentah,100,0,192,7.64,0.38,1.4,20.29,18.8
+Tahu mentah,100,0,76,1.87,0.62,0.3,8.08,4.78
+Salmon mentah,100,0,208,0,0,0,20.42,13.42
+Nila mentah,100,0,96,0,0,0,20.08,1.7
+Bandeng mentah,100,0,148,0,0,0,20.53,6.73
+Tuna mentah,100,0,144,0,0,0,23.33,4.9
+Lele mentah,100,0,119,0,0,0,15.23,5.94
+Belut mentah,100,0,184,0,0,0,18.44,11.66
+Bawang putih mentah,100,0,149,33.06,1,2.1,6.36,0.5
+Bawang bombay mentah,100,0,40,9.34,4.24,1.7,1.1,0.1
+Cabai mentah,100,0,40,8.81,5.3,1.5,1.87,0.44
+Bawang merah mentah,100,0,72,16.8,7.87,3.2,2.5,0.1
+Daun bawang mentah,100,0,32,7.34,2.33,2.6,1.83,0.19
+Jahe mentah,100,0,80,17.77,1.7,2,1.82,0.75
+Gula,12.5,0,48,12.5,12.47,0,0,0
+Gula cokelat,12.5,0,48,12.26,12.13,0,0.02,0
+Madu,21,0,64,17.30,17.25,0,0.06,0
+Garam,6,0,0,0,0,0,0,0
+Lada hitam,2.3,0,6,1.47,0.01,0.6,0.24,0.07
+Santan,100,0,230,5.54,3.34,2.2,2.29,23.84
+Usus ayam mentah,100,0,94,0,0,0,17.66,2.06
+Kulit ayam mentah,100,0,440,0.79,0,0,9.38,44.23
+Ati ayam mentah,100,0,119,0.73,0,0,16.92,4.83
+Jantung ayam mentah,100,0,153,0.71,0,0,15.55,9.33
+Leher ayam mentah,100,0,154,0,0,0,17.55,8.78
+Ampela ayam mentah,100,0,94,0,0,0,17.66,2.06
+Babat sapi mentah,100,0,85,0,0,0,12.07,3.69
+Lidah sapi mentah,100,0,224,3.68,0,0,14.9,16.09
+Otak sapi mentah,100,0,143,1.05,0,0,10.86,10.3
+Paru-paru sapi mentah,100,0,92,0,0,0,16.2,2.5
+Hati sapi mentah,100,0,135,3.89,0,0,20.36,3.63
+Limpa sapi mentah,100,0,105,0,0,0,18.3,3
+KFC extra crispy dada,178,0,530,18,0,0,35,35
+KFC extra crispy paha atas,112,0,330,9,0,0,22,23
+KFC extra crispy paha bawah,55,0,170,5,0,0,10,12
+KFC extra crispy sayap,48,0,170,5,0,0,10,13
+KFC original recipe dada,172,0,390,11,0,2,39,21
+KFC original recipe paha atas,104,0,280,8,0,1,19,19
+KFC original recipe paha bawah,53,0,130,4,0,1,12,8
+KFC original recipe sayap,43,0,170,3,0,0,10,8
+Pasta mentah,100,0,371,74.67,2.67,3.2,13.04,1.51
+Pasta rebus,100,0,158,30.86,0.56,1.8,5.8,0.93
+Kepiting mentah,100,0,87,0.64,0,0,18.06,1.08
+Udang mentah,100,0,85,0,0,0,20.1,0.51
+Kerang mentah,100,0,86,3.57,0,0,14.67,0.96
+Cumi-cumi mentah,100,0,92,3.08,0,0,15.58,1.38
+Lobster mentah,100,0,112,2.43,0,0,20.6,1.51
+Tiram mentah,100,0,59,5.53,0,0,5.22,1.55
+Kelapa,100,0,354,15.23,6.23,9,3.33,33.49
+Air kelapa,240,0,46,8.9,6.26,2.6,1.73,0.48
+Minyak kelapa,13.6,0,121,0,0,0,0,13.47
+Kolang kaling rebus,100,0,103,26.47,23.53,2.9,0.02,0
+Singkong mentah,100,0,160,38.06,1.7,1.8,1.36,0.28
+Talas mentah,100,0,112,26.46,0.4,4.1,1.5,0.2
+Minyak sawit,13.6,0,120,0,0,0,0,13.6
+Minyak bunga matahri,13.6,0,120,0,0,0,0,13.6
+Mentega,100,0,717,0.06,0,0,0.85,81.11
+Minyak zaitun,13.6,0,120,0,0,0,0,13.6
+Minyak kanola,13.6,0,120,0,0,0,0,13.6
+Margarin,100,0,717,0.7,0,0,0.16,80.71
+Chia seeds,100,0,486,42.12,0,34.4,16.54,30.74
+Kuaci semangka,100,0,557,15.31,0,5.4,28.33,47.37
+Kuaci labu,100,0,559,10.71,1.4,6,30.23,49.05
+Flax seeds,100,0,534,28.88,1.55,27.3,18.29,42.16
+Kuaci bunga matahari,100,0,584,20,2.62,8.6,20.78,51.46
+Biji wijen,100,0,573,23.45,0.3,11.8,17.73,49.67
+Biji kopi,100,0,399,62.7,0,19.8,12.4,15.4
+Granola,100,0,489,53.88,19.8,8.9,13.67,24.31
+Muesli,100,0,354,76.7,20.6,5.9,11.2,3.3
+Espresso,29.6,0,3,0.49,0,0,0.04,0.05
+Kopi seduh,248,0,5,0.42,0,0,0.74,0
+Kopi instan bubuk,100,0,303,64.6,0,19.1,16.5,1.7
+Kopi instan,179,0,4,0.61,0,0,0.18,0
+Beetroot mentah,100,0,43,9.56,6.76,2.8,1.61,0.17
+Goji berry kering,100,0,349,77.06,45.61,13,14.26,0.39
+Bubuk cokelat,100,0,228,57.9,1.75,37,19.6,13.7
+Buah zaitun,100,0,116,6.04,0,1.6,0.84,10.9
+Quinoa,100,0,120,21.3,0.87,2.8,4.4,1.92
+Bubuk kayu manis,100,0,247,80.59,2.17,53.1,3.99,1.24
+Indomie goreng jumbo,129,0,560,80,13,3,13,21
+Indomie goreng,85,0,380,54,8,2,8,14
+Indomie kuah,69,0,300,43,3,2,7,11
+Indomie salted egg,100,0,480,53,6,2,11,25
+Indomie goreng sambal rica-rica,85,0,420,49,3,7,8,22
+Indomie goreng sambal matah,85,0,410,51,2,6,8,20
+Samyang buldak cheese,140,0,550,84,7,1,13,18
+Samyang buldak extra hot,140,0,530,85,7,1,12,16
+Samyang buldak stew,145,0,540,69,7,1,10,16
+Samyang,140,0,530,85,7,1,12,16
+Mie sedap goreng,91,0,420,60,7,8,8,16
+Bakmi mewah,100,0,450,47,1,0,13,23
+Pop mie kuah pedes dower,75,0,360,46,4,3,6,16
+Pop mie mie goreng pedas,80,0,370,49,4,6,6,17
+Pop mie rasa kari ayam,75,0,350,45,4,4,7,16
+ABC selera pedas hot gulai chicken,60,0,270,34,1,2,7,12
+Nonghsim shin cup,72,0,309,46.8,1.9,0,6,10.9
+Nissin cup noodles,75,0,310,51,6,2,7,9
+Fitbar,24,0,90,14,4,1,3,2.5
+Heavenly blush,25,0,90,15,5,4,2,2.5
+Snickers,35,0,175,21,16,1,3.5,8.75
+L-Men bar,25,0,100,17,7,2,3,2.5
+WRP bar,20,0,80,14,7,2,1,3.5
+Soyjoy,30,0,150,12,7,5,5,9
+Koko crunch,30,0,110,23,9,1,2,1
+Honey stars,30,0,110,25,8,1,1,0.5
+Milo cereal,30,0,110,23,9,2,2,1
+Corn flakes,30,0,110,26,3,1,2,0
+Froot loops,30,0,120,26,11,3,2,0.5
+Coco pops,30,0,120,26,12,1,2,0.5
+Kurma kering,100,0,282,75.03,63.35,8,2.45,0.39
+Kismis kering,100,0,299,79.32,65.18,4.5,3.3,0.25
+Blueberry kering,100,0,317,80,67.5,7.5,2.5,2.5
+Prunes kering,100,0,240,63.88,38.13,7.1,2.18,0.38
+Apricot kering,100,0,241,62.64,53.44,7.5,3.39,0.51
+Cranberry kering,100,0,308,82.8,72.56,5.3,0.17,1.09
+Biokul natural set yogurt,100,0,70,10,3,0,5,1
+Biokul plain yogurt,100,0,90,15,7,0,5,0.5
+Biokul greek yogurt,100,0,160,6,2,0,6,12
+Cimory yogurt set,100,0,100,16,11,0,3,2.5
+Elle & Vire Yogurt,100,0,90,13,11,0.4,2.3,3.1
+Heavenly blush greek yogurt,100,0,170,16,9,3,8,9
+Heavenly blush greek yogurt drink,200,1,180,23,14,8,7,7
+Heavenly blush yogurt drink,200,1,100,17,12,4,4,2
+Heavenly blush tummy yogurt drink,180,1,160,30,20,11,4,2.5
+Cimory yogurt drink,200,1,150,27,19,0,3,3.5
+Biokul yogurt drink blueberry,150,1,90,19,12,0,3,0.5
+Biokul yogurt drink strawberry,150,1,100,19,11,0,3,1
+Nasi goreng,1,2,374,39,3,2,11,18
+Nasi goreng telur,1,2,522,41,3.7,3.1,23,29
+Es batu,100,0,0,0,0,0,0,0
+Susu kental manis,40,0,135,23,19,1,0,4.5
+Oreo,29.4,0,140,21,11,1,1,6
+Milo bubuk,18,0,80,13,8,0,2,2
+Meses cokelat,25,0,120,20,16,2,0,4
+Tanggo,19,0,90,14,5,0,1,3.5
+Es kepal milo,1,2,131.4
+Greenfields skimmed milk,250,1,80,11,8,0,10,0
+Greenfields low fat,250,1,110,12,12,0,9,3
+Greenfields full cream,250,1,160,12,7,1,8,9
+Frisian flag putih,40,0,140,23,19,0,1,4
+Frisian flag gold,40,0,130,22,21,0,4,3.5
+Frisian flag cokelat,40,0,135,23,19,0,1,4.5
+Nestle carnation,29,0,100,17,16,0,1,5
+Indomilk,37,0,120,21,19,2,1,3.5
+Indofood cap enak,37,0,120,21,19,2,1,4
+Ayam brand tuna dalam air,43,0,50,0,0,0,13,0
+Ayam brand tuna dalam minyak,43,0,70,0,0,0,9,3.5
+Ayam brand chili tuna,46,0,100,3,2,0,8,6
+Ketupat,100,0,160,30.36,0.11,1.1,3.27,2.2
+Emping melinjo,100,0,350,69.79,0.0.5,2.5,12.11,1.49
+Kue nastar,25,0,75,12.66,3.5,0.5,1.14,2.14
+Opor ayam,100,0,415
+Sayur lodeh,100,0,240
+Sambal goreng ati,100,0,346
+Rendang daging,100,0,518
+Semur daging,100,0,515
+Ultra milk full cream,250,1,150,12,0,0,8,8
+Ultra milk lowfat,250,1,120,14,0,0,9,3
+Indomilk full cream,250,1,150,11,0,4,8,8
+Indomilk low fat,250,1,120,16,0,3,7,3.5
+Frisian flag full cream,225,1,140,13,11,0,7,7
+Frisian flag lowfat,225,1,120,16,12,0,7,3
+Chitato fresh potato,20,0,110,12,0,0,1,6
+Cheetos jagung bagar,10,0,50,6,0,0,1,3
+Lays krim & bawang,20,0,110,11,0,0,2,6
+WRP deli chips,40,0,210,26,1,3,1,11
+Taro seaweed,20,0,90,14,1,1,1,4
+Doritos barbeque,20,0,100,13,1,0,2,4.5
+Tim tam chocolate,30,0,150,21,11,2,2,7
+Loacker chocolate,100,0,511,59,27,0,7.7,26
+Nissin wafer,25,0,140,14,7,0,2,9
+Walens choco soes,25,0,140,14,8,0,2,8
+Tango chocolate,20,0,100,14,5,0,1,4
+Selamat wafer,30,0,160,19,12,0,2,8
+McDonald's Big Mac,1,2,540,46,9,3,25,28
+McDonald's Mc double,1,2,380,34,7,2,23,18
+McDonald's Hamburger,1,2,250,31,6,1,13,8
+McDonald's Triple cheeseburger,1,2,520,36,7,2,32,28
+McDonald's Double cheeseburger,1,2,430,35,7,2,25,21
+McDonald's Cheeseburger,1,2,300,35,7,2,15,12
+McDonald's sausage McMuffin,114,0,400,29,3,2,14,25
+McDonald's egg McMuffin,138,0,300,30,3,2,18,12
+McDonald's french fries,117,0,340,44,0,4,4,16
+McDonald's McNuggets,97,0,270,16,0,1,15,16
+McDonald's apple pie,77,0,230,32,13,4,2,10
+McDonald's hotcakes,151,0,600,102,45,2,9,16
+Pocari sweat,250,1,70,17,16,0,0,0
+Mizone,250,1,45,11,11,0,0,0
+You C1000 orange water,500,1,160,40,40,0,0,0
+Hydrococo,250,1,60,18,10,7,0,0
+Coolant,350,1,100,25,23,0,0,0
+Nu Oceana,250,1,80,19,18,0,0,0
+L-men 2 Go chocolate,200,1,90,10,9,0,8,2
+Entrasol cokelat,200,1,140,24,11,1,5,2.5
+Milo cokelat susu kotak,190,1,120,17,15,0,3,4
+WRP on the go cokelat,200,1,150,24,16,6,7,3
+Diabetasol vanilla malt,200,1,170,26,0,3,8,4
+Anlene cokelat,175,1,135,21,20,0,7,3
+Pronas kornet ayam,50,0,70,5,0,2,5,3
+Pronas kornet sapi,50,0,80,5,1,3,6,3.5
+Pronas chicken luncheon,50,0,80,3,0,3,4,6
+Char siu (Chinese BBQ),22,0,60,14,13,0,0,0
+Teriyaki,19,0,15,4,3,0,0,0
+Curry,29,0,70,7,5,1,1,4.5
+Black pepper,18,0,25,5,3,0,0,0.5
+Black bean,9,0,15,2,1,0,0,0.5
+Hoisin,42,0,100,22,21,1,1,0.5
+Bento special 1 Hokben,1,2,612,74.8,0,0,24.2,23.6
+Paket B Hokben,1,2,522,52.8,0,0,26.3,22.4
+Paket C Hokben,1,2,625,64,0,0,35.4,24.1
+Chicken karage Hokben,1,2,340,15,0,0,25,20.5
+Hoka hemat 4 Hokben,1,2,413,47.2,0,0,20.3,15.3
+Tori ball Hokben,1,2,250,15,0,0,7,14
+Chicken nugget So Good,100,0,250,14,0,0,16,14
+Chicken stick So Good,100,0,250,13,0,0,13,17
+Chicken karage So Good,100,0,300,21,0,0,12,18
+Chicken wing So Good,100,0,220,4,0,0,20,14
+Chicken sausage So Good,60,0,110,2,0,0,9,7
+Bakso kuah sapi So Good,120,0,160,20,0,0,8,5
+Nescafe black,200,1,60,15,12,0,0,0
+Luwak white koffie,240,1,130,23,21,0,4,2
+Good Day Cappucino,250,1,170,32,25,7,1,3.5
+Nescafe latte,240,1,130,22,18,0,4,3.5
+Kopiko 78°C coffee latte,240,1,180,8,24,0,4,3
+ABC exo milk coffee,230,1,160,24,22,2,8,3.5
+Meet lovers large Pizza Hut,175,0,470,36,1,2,19,28
+Meet lovers personal Piazza Hut,81,0,210,17,2,1,8,12
+Super suppreme lagre Pizza Hut,172,0,410,37,2,3,16,22
+Super suppreme personla Pizza Hut,77,0,170,17,2,1,7,9
+Deluxe cheese large Pizza Hut,150,0,380,37,1,3,16,19
+Deluxe cheese personal Pizza Hut,65,0,150,17,2,1,6,6
+Coca Cola zero sugar,330,1,0,0,0,0,0,0
+Coca cola,330,1,140,33,33,0,0,0
+Sprite,250,1,100,25,25,0,0,0
+Kratingdaeng pro,240,1,120,27,27,0,0,0
+A&W,330,1,170,43,43,0,0,0
+Red Bull,250,1,112,28,28,0,0,0
+Dua Kelinci kacang garing,25,0,160,4,1,3,8,12
+Dua Kelinci sukro,25,0,130,15,1,2,2,7
+Dua Kelinci kacang polong,25,0,120,15,0,5,3,5
+Mr.P garlic peanut,40,0,240,14,4,0,6,17
+Mr.P cashewnuts,40,0,250,11,3,0,7,19
+Mr.P honey peanut,25,0,150,5,3,0,7,12
+Wall's double dutch,100,1,150,18,9,1,3,7
+Wall's oreo cookies cream,100,1,140,17,11,1,2,7
+Wall's oreo chocolate,100,1,140,21,15,1,2,4
+Diamond durian,100,1,100,12,9,0,2,6
+Diamond vanilla,100,1,110,12,9,0,2,6
+Diamond kacang hijau,100,1,220,25,8,0,4,11
+Kopiko coffee candy,9,0,40,8,6,0,0,1
+Fox fruit candy,4.5,0,15,4,3,0,0,0
+UHA milk candy,3,0,15,3,2,0,0,0
+Relaxa,2.5,0,10,2,2,0,0,0
+Ricola herb candy,15,0,60,15,0,0,0,0
+Fisherman's friend original,1.15,0,0,1,0,0,0,0
+Nutella,15,0,80,9,8,0,1,4.5
+Jif extra crunchy,32,0,190,8,3,2,7,16
+Smucker's strawberry,20,0,50,13,12,0,0,0
+Smuker's blueberry,20,0,50,13,12,0,0,0
+Ovomaltine,20,0,109,11.9,10.9,0,0.8,6.4
+Skippy chunky,32,0,210,7,3,2,7,17
+Yoshinoya beef reguler bowl,425,0,730,91,5,3,30,27
+Yoshinoya teriyaki chicken reguler bowl,572,0,790,110,16,5,48,18
+Yoshinoya veggie beef reguler bowl,496,0,650,95,4,5,24,20
+Yoshinoya beef large bowl,610,0,1040,131,8,5,43,38
+Yoshinoya teriyaki chicken large bowl,903,0,1140,165,25,9,66,25
+Yoshinoya veggie beef large bowl,808,0,960,141,8,9,35,29
+Nescafe original 3 in 1,17.5,0,80,15,11,0,1,2
+Good day the original,20,0,90,16,13,1,1,2.5
+Kapal Api grande white coffee,20,0,90,17,12,1,1,2
+Indocafe cofeemix 3 in 1,20,0,90,17,13,0,1,2
+Indocafe cappuccino,25,0,110,19,14,0,2,3
+Luwak white koffie sachet,20,0,90,17,12,2,1,2
+Pocky chocolate,47,0,230,32,12,0,3,10
+Pocky double choco,47,0,240,29,9,0,4,12
+Pocky cookies and cream,40,0,210,26,11,0,3,10
+Pocky strawberry,45,0,220,31,9,0,3,10
+Pocky choco banana,42,0,220,28,12,0,3,10
+Pocky matcha,33,0,160,23,10,0,3,7
+San Remo Spaghetti,125,0,457,90,3.1,3.8,15,2.5
+San Remo wholemeal,125,0,452,78,4,11,19,4
+San Remo spinach fettucine,125,0,457,89,4,6,15,2.5
+San Remo bolognese & mushroom sauce,125,0,77,8.6,4.8,0,2.1,3.6
+San Remo tomato & basil sauce,125,0,96,11.5,7.4,0,2,4.6
+San Remo Napolitana sauce,125,0,72,8.6,6.5,0,1.4,3.5
+Krispy Kreme original glazed,49,0,190,21,10,1,3,11
+Krispy Kreme classic cinnamon,45,0,190,21,8,1,3,11
+Krispy Kreme mini original glazed,23.3,0,83.3,10,4.7,0.3,1,4.3
+Krispy Kreme chocolate iced,63,0,240,33,20,1,3,11
+Krispy Kreme oreo chocolate cream,96,0,390,49,27,1,4,21
+Krispy Kreme glazed chocolate cake,71,0,250,38,24,1,3,10
+Teh Botol original,450,1,140,34,32,0,0,0
+Teh Botol less sugar,450,1,90,22,22,0,0,0
+Teh Botol tawar,350,1,0,0,0,0,0,0
+Teh Pucuk harum,500,1,140,36,36,0,0,0
+Frestea,500,1,140,40,36,0,0,0
+Teh Gelas,500,1,175,45,40,0,0,0
+Magnum classic,90,1,240,30,18,4,3,13
+Magnum white almond,80,1,230,23,13,3,3,14
+Paddle Pop choco magma,55,1,70,12,8,1,1,2.5
+Cornetto chocolate,120,1,260,34,22,2,3,12
+Cornetto oreo,110,1,240,33,20,2,2,11
+Walls feast vanilla,65,1,140,15,13,1,2,8
+Roma malkist,27,0,120,19,3,0,2,4.5
+Nissin crispy crackers,30,0,150,21,3,0,2,6
+Gery saluut malkist,28,0,130,19,5,1,2,5
+Khong Guan malkist abon,18,0,80,13,3,0,2,3
+Khong Guan salt cheese,16,0,80,10,2,0,1,4
+Khong Guan malkist seaweed,18,0,90,12,2,0,1,3.5
+Silverqueen almond,30,0,170,14,11,0,4,11
+Silverqueen chunky almond bar,30,0,170,15,12,0,3,11
+Cadbury dairy milk,30,0,160,18,15,3,2,9
+Ritter sport whole almonds,25,0,140,13,9,0,3,9
+Delfi dairy milk,27,0,150,15,12,1,2,9
+Toblerone,25,0,130,15,15,0,1,7
+Buahvita apple,250,1,110,25,23,0,0,0
+Buahvita royale sunshine carrot,250,1,120,28,25,2,0,0
+Buahvita guava,250,1,130,30,20,4,1,0
+Buahvita orange,250,1,120,28,23,0.5,0,0
+Buahvita royal chloro broccoli,250,1,120,29,27,0,0,0
+Buahvita manggo,250,1,130,30,23,0,0,0
+Tropicana Slim high fiber milk cokelat,45,0,170,31,12,6,10,0
+Tropicana Slim high fiber milk vanilla,40,0,150,25,12,6,10,1
+Slim & Fit chocolate,54,0,200,30,12,5,15,3
+Slim & Fit vanilla,54,0,200,30,13,5,15,2.5
+WRP lose weight cokelat,50,0,220,27,20,2,14,6
+WRP lose weight stroberi,50,0,220,25,21,2,14,6
+Kraft cheddar,20,0,70,2,0,0,4,5
+Kraft quick melt,30,0,100,4,1,0,5,7
+Greenfield mozzarella,30,0,90,2,0,0,7,6
+Greenfiled ricotta,50,0,110,2,1,0,4,9
+MEG cheddar,30,0,90,2,0,0,6,7
+Diamond cheddar,30,0,70,8,0,0,5,2
+Lotte choco pie,28,0,120,19,10,0,1,4.5
+Serena egg rolls chocolate,14,0,80,8,4,1,1,4.5
+Arnott's good time,16,0,80,11,4,2,1,3.5
+Meiji hello panda,45,0,230,30,12,1,3,10
+Myprotein impact whey protein,25,0,105,3,1.6,0.5,20,1.8
+On gold standard whey,30.4,0,120,3,1,0,24,1
+Musclepharm chombat 100% whey,35,0,130,3,1,1,25,1.5
+BSN syntha-6,47.2,0,200,14,2,5,22,6
+Dymatize elite 100% whey,36,0,140,3,2,1,25,2
+Muscletech nitro-tech,44,0,160,4,2,1,30,2.5
+Sansai Grill migiri salmon,28.5,0,45,3,0,0.5,3,2
+Sansai Grill migiri tuna,28.5,0,31,3,0,0.5,4,1
+Sansai Grill hand roll unagi,116,0,152,14,1,1,9,6
+Sansai Grill hand roll shrimp,102,0,90,9,0.5,1,8,2
+Sansai Grill dragon roll,342,0,373,65.5,12,3,12,8
+Sansai Grill red bull roll,337.5,0,484,72,28,1,28,7.5
+Burger King whopper,270,0,660,49,11,2,28,40
+Burger King double whopper,354,0,900,49,11,2,48,58
+Burger King cheese burger,111,0,280,27,7,1,15,13
+Burger King french fries,153,0,380,53,0,4,5,17
+Burger King onion rings,117,0,410,53,5,4,4,21
+Burger King ice cone,120,0,190,32,24,0,5,4.5
+Royco kaldu ayam,2,0,0,0,0,0,0,0
+Royco kaldu sapi,2,0,0,0,0,0,0,0
+Bon Cabe level 15,2.5,0,10,1,0,0,0,0
+Bon Cabe level 10,2.5,0,10,1,0,0,0,0
+Royco ayam bumbu rujak,3.7,0,10,2,2,0,0,0
+Royco nasi goreng,4.5,0,15,2,2,0,0,0
+Dairy Queen vanilla cone,199,0,330,52,36,0,9,9
+Dairy Queen chocolate dipped cone,220,0,460,59,43,1,9,22
+Dairy Queen Mocha Moolatte,489,0,580,88,77,1,10,22
+Dairy Queen oreo cookie blizzard,358,0,780,117,84,1,15,29
+Dairy Queen hot fudge sundae,234,0,430,66,52,1,9,15
+Dairy Queen banana split,374,0,520,92,72,4,9,14
+Kusuka keripik singkong,20,0,100,14,1,1,0,4.5
+Kusuka keripik ubi,20,0,110,12,3,1,1,7
+Kusuka keripik emping,25,0,140,13,1,1,2,9
+Qtela singkong,20,0,100,14,1,0,0,5
+Qtela ubi ungu,20,0,100,14,3,0,0,5
+Qtela tempe,20,0,110,8,0,0,4,7
+Frozen Yogurt Pinkberry original large,369,0,390,81,77,0,15,1
+Frozen Yogurt Pinkberry original medium,227,0,240,50,47,0,9,0
+Frozen Yogurt Pinkberry original small,142,0,150,31,30,0,6,0
+Frozen Yogurt Pinkberry topping manggo,18,0,10
+Frozen Yogurt Pinkberry topping kiwi,16,0,10
+Frozen Yogurt Pinkberry topping strawberry,15,0,5
+Frozen Yogurt Pinkberry topping blueberry,13,0,5
+Frozen Yogurt Pinkberry topping almond,8,0,45
+Frozen Yogurt Pinkberry topping honey almond granola,7,0,30
+Frozen Yogurt Pinkberry topping chocolate chip cookie,11,0,50
+Frozen Yogurt Pinkberry topping chocoloate chips,12,0,60
+Frozen Yogurt Pinkberry topping brownie bites,11,0,50
+Frozen Yogurt Pinkberry topping moji,15,0,60
+Frozen Yogurt Pinkberry topping rainbow sprinkle,10,0,40
+Frozen Yogurt Pinkberry topping waffle cone,22,0,90
+Wingstop garlic parmesan,49,0,206,1,0,1,16,15
+Wingstop lemon pepper,49,0,180,1,0,1,15,13
+Wingstop red hot cajun,49,0,142,1,0,1,15,8
+Wingstop lousiana rub,49,0,171,1,0,1,15,12
+Wingstop hickory smoked bbq,49,0,171,8,7,1,15,8
+Wingstop atomic blast,49,0,144,2,0,1,15,9
+Baked lotus paste mooncake,50,0,191,25.38,0,1.34,2.78,8.66
+Baked lotus paste mooncake wuth one egg yolk,47,0,197,20.79,0,0.97,3.2,11.21
+Snow  skin lotus paste mooncake,50,0,187,26.36,0,1.16,2.12,8.04
+Red bean paste mooncake,50,0,185,27.14,0,2.48,2.76,7.18
+Baked lotus paste mooncake with two egg yolks,48,0,233,20.5,0,0.85,4.05,13.79
+Mixed nut and ham mooncake,50,0,245,21.38,0,2.08,5.4,15.3
+Quaker instant oatmeal,35,0,140,24,0,3,4,3
+Quaker kari ayam,28,0,110,18,0,2,4,2.5
+Energen oat milk,24,0,100,16,1,2,3,2
+Quaker 3in1,29,0,120,22,11,1,1,3
+Nestle nestum,32,0,130,27,9,1,3,1
+Energen sereal cokelat,29,0,130,23,17,1,1,3.5
+Yakult,65,1,50,11,10,0,1,0
+Cimory yogurt drink,250,1,180,32,0,26,6,2
+Kin bulgarian yogurt,200,1,170,29,28,0,5,3.5
+Nutrive benecol,100,1,60,9,4,0,1,2
+Cimpry yogurt,70,1,50,7,6,0,2,2,
+Yoforia berry smooth,200,1,130,24,20,0,4,2
+Chatime pearl milk tea,500,1,374,67,39.5,0,1,11
+Chatime milk tea,500,1,302,44.5,39.5,0,1.5,13
+Chatime Mango smoothie,500,1,228,55.5,54,0,0.5,0.5
+Chatime matcha red bean smoothie,500,1,384,67,58,0,4.5,10.5
+Chatime matcha tea latte,500,1,190,31.5,30,0,6.5,4
+Chatime taro milk tea,500,1,399,70,54.5,0,2,12
+Edo mantou plain,40,0,120,24,4,0,2,1
+Edo mantou rasa cokelat,40,0,120,24,6,0,3,1.5
+Edo mini pau kacang merah,25,0,80,13,2,0,2,1.5
+Edo pancake original,55,0,160,22,8,0,4,7
+Edo puff pastry sheet,50,0,200,18,1,0,3,13
+Ed0 pizza base,40,0,110,22,0,0,3,1
+Granola Creation dark chocolate & banana,60,0,236,38,10,2,7,7
+Granola Creation cinnamon & raisin,60,0,225,36,10,2,7,5
+Granola Creation tropical fruit & nuts,60,0,162,23,5,2,7,5
+Granola Creation honey & mango,60,0,222,38,10,2,7,5
+Granola Bites vanilla,30,0,159,21,7,2,3,8
+Granola Bites coconut banana,30,0,129,17,8,2,2,6
+Sambal Cuk! original cabe,40,0,160,9,3,4,1,13
+Sambal Cuk! ikan roa asap,40,0,220,7,4,3,4,20
+Sambal Cuk! korek bebek madura,40,0,170,10,3,7,2,14
+Sambal Cuk! ijo teri medan,40,0,190,9,5,4,2,17
+Saus Sambal ABC,9,0,28,6,5,0,0,0
+Sambal terasi Kokita,15,0,30,5,1,0,1,1
+Maya sardines saus tomat,100,0,80,4,0,0,13,1
+Maya marckerel saus tomat,100,0,100,4,0,0,16,3
+Ayam Brand mackerel saus tomat,70,0,130,1,1,0,13,8
+ABC sardines saus tomat,70,0,100,9,2,0,12,2
+King's Fisher sarden sambal bangkok,60,0,70,6,0,0,8,2
+King's Fisher sarden goreng balado,60,0,120,4,0,0,8,8
+Tony Roma's potato skin with sour cream,1,2,751,41,2,0,35,51
+Tony Roma's onion loaf with bbq sauce,1,2,1200,205,48,12,23,23
+Tony Roma's the original baby back ribs,454,0,563,55,50,0,30,25
+Tony Roma's New York striploin,340,0,10001,1,0,0,72,76
+Tony Roma's blue ridge sauce,43,0,66
+Tony Roma's bourbon sauce,43,0,62
+Tony Roma's carolina honey sauce,43,0,90
+Tony Roma's original sauce,43,0,68
+Tony Roma's red hots sauce,43,0,75
+Tony Roma's baked potato,1,2,315
+Tony Roma's frenchh fries,1,2,404
+Tony Roma's mashed potato,1,2,338
+Tony Roma's cole slaw,1,2,126
+Tony Roma's corn on the cob,1,2,223
+Ovaltine 3in1,33,0,140,25,20,1,2,3
+Delfi Hot Cocoa,25,0,110,21,17,0,1,2.5
+Hilo belgian chocolate milk,30,0,120,19,17,0,5,2.5
+Milo 3in1,35,0,140,25,16,1,4,3
+Cadburry hot chocolate 3in1,30,0,130,24,18,0,1,3.5
+Chek Hup Kokoo,40,0,182,27.8,0,1.32,1.6,6.84
+Cheesecake Factory original cheesecake,1,2,830,64,52,1,12,58
+Cheesecake Factory oreo dream extreme cheesecake,1,2,1620,178,134,7,17,99
+Cheesecake Factory ultimate red velvet cake cheesecake,1,2,1570,125,105,1,14,116
+Cheesecake Factory hot fudge sundae,1,2,1310,116,94,6,20,86
+Cheesecake Factory oreo milkshake,1,2,1680,183,131,3,27,94
+Cheesecake Factory carrot cake,1,2,1710,146,117,5,15,122

@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <menu xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_back"
+        android:icon="@drawable/ic_arrow_back_black_24dp"
+        android:title="back"
+        android:orderInCategory="1"
+        app:showAsAction="always"/>
+
     <item
         android:id="@+id/menu_next"
         android:icon="@drawable/ic_arrow_forward_black_24dp"
         android:title="Next"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
+
 </menu>

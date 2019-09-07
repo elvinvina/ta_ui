@@ -11,10 +11,8 @@
     <string name="profil">profil</string>
     <string name="prompt_nope">Tidak Aktif Sama Sekali\nMenghabiskan sebagian besar waktu harinya hanya untuk
         duduk\n(Contoh: teller bank, pekerja kantoran)</string>
-    <string name="prompt_cukup">Cukup Aktif\nMenggunakan sebagain waktunya untuk bergerak\n
-        (Contoh: guru, pekerja sales, teller bank, penjual)</string>
-    <string name="prompt_aktif">Aktif\nMenggunakan sebagian waktunya untuk melakukan aktivitas fisik\n
-        (Contoh: pelayan, pengantar pos)</string>
+    <string name="prompt_cukup">Cukup Aktif\nMenggunakan sebagain waktunya untuk bergerak\n(Contoh: guru, pekerja sales, teller bank, penjual)</string>
+    <string name="prompt_aktif">Aktif\nMenggunakan sebagian waktunya untuk melakukan aktivitas fisik\n(Contoh: pelayan, pengantar pos)</string>
     <string name="prompt_sangatAktif">Sangat Aktif\nMenggunakan sebagian waktunya untuk melakukan aktivitas
         yang berat\n(Contoh: pengrajin kayu)</string>
 </resources>
