@@ -5,7 +5,9 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.widget.Toolbar;
+import android.support.v7.widget.Toolbar;
+import android.view.Gravity;
+import android.view.View;
 
 public class register_first extends AppCompatActivity {
     Toolbar toolbar;
@@ -14,20 +16,19 @@ public class register_first extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.register_page1);
-        toolbar= findViewById(R.id.toolbar);
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            toolbar.setTitle("Detail");
-        }
-        toolbar = (Toolbar) toolbar;
-        toolbar.setNavigationIcon(R.drawable.ic_arrow_back_black_24dp);
-        //toolbar.inflateMenu(R.menu.menu_register);
+        toolbar= (Toolbar) findViewById(R.id.toolbar);
+        toolbar.setTitleMarginTop(Gravity.CENTER);
+        toolbar.setTitle("Detail");
+        toolbar.getNavigationIcon();
+
+        setSupportActionBar(toolbar);
 
     }
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.menu_register,menu);
-        return super.onCreateOptionsMenu(menu);
+        return true;
     }
 
     @Override
