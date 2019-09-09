@@ -5,55 +5,76 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:theme="@style/Theme.AppCompat.Light.NoActionBar"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    tools:context=".artikel">
+
 
     <android.support.v7.widget.Toolbar
-        android:id="@+id/toolbar_artikel"
+        android:id="@+id/artikel_toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="?attr/colorPrimary"
         android:minHeight="?attr/actionBarSize"
         android:theme="?attr/actionBarTheme"
-        app:layout_constraintBottom_toTopOf="@+id/search_article"
+        app:navigationIcon="@drawable/ic_menu_black_24dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <SearchView
-        android:id="@+id/search_article"
+        android:id="@+id/search_artikel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:iconifiedByDefault="false"
         android:queryHint="cari artikel"
-        app:layout_constraintBottom_toTopOf="@+id/scrollView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/toolbar_artikel" />
+        app:layout_constraintTop_toBottomOf="@+id/artikel_toolbar" />
 
     <ScrollView
-        android:id="@+id/scrollView2"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:layout_constraintTop_toTopOf="parent"
-        tools:layout_editor_absoluteX="411dp">
+        android:id="@+id/cont"
+        app:layout_constraintTop_toBottomOf="@id/search_artikel"
+        android:layout_marginTop="125dp">
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="@drawable/background"
-            android:orientation="vertical">
-
-            <TextView
-                android:id="@+id/title_article"
-                android:layout_width="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/background">
+            <LinearLayout
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:gravity="left"
-                android:paddingStart="5dp"
-                android:paddingTop="5dp"
-                android:paddingEnd="5dp"
-                android:paddingBottom="5dp"
-                android:textColor="@color/black"
-                android:textSize="24sp" />
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/title_article"
+                    android:text="Makanan yang cocok untuk Golongan darah O"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:paddingStart="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingEnd="5dp"
+                    android:paddingBottom="5dp"
+                    android:textColor="@color/black"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:id="@+id/tgl_artikel"
+                    android:text="20 Jan 2019"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="end"
+                    android:paddingStart="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingEnd="5dp"
+                    android:paddingBottom="5dp"
+                    android:textColor="@color/grey"
+                    android:textSize="12sp" />
+            </LinearLayout>
 
             <android.support.v7.widget.AppCompatImageView
                 android:id="@+id/photo_article"
@@ -66,6 +87,7 @@
 
             <TextView
                 android:id="@+id/preview_text"
+                android:text="asdjahkfjaourfh xkajhfkjahf jawhdkajhfei hjabf akjefhkjhfe kjaewf"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:lines="5"
@@ -76,7 +98,6 @@
                 android:textAppearance="?android:attr/textAppearanceLarge"
                 android:textColor="@color/black"
                 android:textSize="12sp" />
-
         </LinearLayout>
     </ScrollView>
 
@@ -94,5 +115,6 @@
         app:itemTextColor="@color/black"
         app:labelVisibilityMode="labeled"
         app:menu="@menu/bottom_navigation"/>
+
 
 </android.support.constraint.ConstraintLayout>
