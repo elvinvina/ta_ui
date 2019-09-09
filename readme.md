@@ -12,3 +12,6 @@ Breakdown To do list :
 	3. fungsionalitas search
 	4. on repeat load artikel di page artikel --> connect db?
 5. layout jurnal diet, latihan, profil, side menu, floating menu
+
+Db yg kurang :
+buat lahtihan --> **manaual** dan **load dr youtube**
